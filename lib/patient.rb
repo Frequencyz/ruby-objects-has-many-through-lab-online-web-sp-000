@@ -19,6 +19,6 @@ class Patient
   end
   
   def patient
-    
+    Appointment.all.map do |
   
 end
